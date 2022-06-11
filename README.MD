@@ -6,4 +6,4 @@
 
 ## [Вопросы для Middle](./Middle/README.MD)
 
-## [Вопросы для Senior](./Middle/README.MD)
+## [Вопросы для Senior](./Senior/README.MD)

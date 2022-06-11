@@ -2,7 +2,7 @@
   ## Общие вопросы
 
   1. [Как передаются переменные (по значению или по ссылке)?](https://codernet.ru/articles/web/kak_opredelit_peremennyie_php_peredayutsya_po_znacheniyu_ili_po_ssyilke/)
-  2. [Какие процессы происходят, когда пользователь вводит в браузере URL?](https://sobes.sr-studio.com.ua/middle/question/kak-peredayutsya-peremennye-po-znaceniyu-ili-po-ssylke)
+  2. [Какие процессы происходят, когда пользователь вводит в браузере URL?](https://habr.com/ru/company/karuna/blog/568702/)
   3. [Что такое вариативная функция или splat-оператор?](https://sobes.sr-studio.com.ua/middle/question/cto-takoe-variativnaya-funkciya-ili-splat-operator)
   4. [Что такое OWASP?](https://sobes.sr-studio.com.ua/middle/question/cto-takoe-owasp)
   5. [Какие типы уязвимостей знаете? Как от них защищаться?](https://docs.wallarm.ru/attacks-vulns-list/#%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%B0-%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%BC-%D1%81%D0%BA%D0%B0%D0%BD%D0%B5%D1%80%D0%BE%D0%BC)
